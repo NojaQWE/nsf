@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  "owners": ["868137053861347389"],
+  "footer": "Sex için <@936944003167957052>'i Ara!'",
+
+  "msg": {
+    "nsfwWarn": "Bu komudu sadece NSFW(+18) kanallarda kullanabilirsin",
+    "loading": "Lütfen Bekleyin...",
+    "imageNotLoading": "Resim yüklenmedimi ? [TIKLA]"
+  }
+}
